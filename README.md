@@ -32,10 +32,10 @@ Execute the primary script, main.py, to initiate the encryption and decryption t
 Usage
 --
 
- · Safeguard confidential contracts and legal documents with unbreakable encryption.
- · Securely share sensitive financial statements without fearing data breaches.
- · Protect intellectual property by encrypting crucial research papers and reports.
- · Unlock encrypted PDFs effortlessly to access your treasure trove of knowledge.
+Safeguard confidential contracts and legal documents with unbreakable encryption.
+Securely share sensitive financial statements without fearing data breaches.
+Protect intellectual property by encrypting crucial research papers and reports.
+Unlock encrypted PDFs effortlessly to access your treasure trove of knowledge.
 
 Author
 --
